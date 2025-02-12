@@ -13,3 +13,10 @@ giam grant -r <role> -m <member> -d <duration>
 ```bash
 giam grant -r roles/iam.serviceAccountUser -m user@example.com -d 1h
 ```
+
+## Installation
+
+```bash
+go install github.com/mousybusiness/giam@latest
+```
+
