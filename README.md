@@ -17,6 +17,6 @@ giam grant -r roles/iam.serviceAccountUser -m user@example.com -d 1h
 ## Installation
 
 ```bash
-go install github.com/mousybusiness/giam@latest
+go install github.com/unacast/giam@latest
 ```
 
